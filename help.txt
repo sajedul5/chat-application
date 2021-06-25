@@ -1,0 +1,11 @@
+npm i express dotenv ejs mongoose multer cookie-parser express-validator jsonwebtoken bcrypt http-errors
+
+
+
+
+
+
+
+
+
+//problem line "// "start": "NODE_ENV=development nodemon app.js","""
